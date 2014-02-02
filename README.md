@@ -9,3 +9,4 @@ IT club web app - Front-End
 - [x] dependencies loaded
 - [ ] research + jobs pages
 - [ ] Projects Page
+- [ ] Role distribution
