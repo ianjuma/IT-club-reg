@@ -10,3 +10,4 @@ IT club web app - Front-End
 - [ ] research + jobs pages
 - [ ] Projects Page
 - [ ] Role distribution
+- [ ] Cards UI on index page
