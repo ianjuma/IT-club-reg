@@ -25,9 +25,25 @@
     </head>
     <body>
 
+      
       <div class="ui very thin sidebar">
-
+        <a class="item">
+          <img src="icons/svg/compas.svg" height="45" width="45">
+        </a>
+        <a class="active item">
+          <img src="icons/svg/loop.svg" height="45" width="45">
+        </a>
+        <a class="item">
+          <img src="icons/svg/map.svg" height="45" width="45">
+        </a>
+        <a class="item">
+          <img src="icons/svg/pencils.svg" height="45" width="45">
+        </a>
+        <a class="item">
+          <img src="icons/svg/toilet-paper.svg" height="45" width="45">
+        </a>
       </div>
+
 
         <div class="container">
           <header>
@@ -86,11 +102,11 @@
           </div>
           <div class="actions">
             <div class="ui button">Cancel</div>
-            <div class="ui button">OK</div>
+            <div class="ui positive button">Submit</div>
           </div>
         </div>
 
-         <div id="reg" class="ui buttons">
+        <div id="reg" class="ui buttons">
           <div class="ui primary button">Sign Up</div>
           <div class="or"></div>
           <div id="some" class="ui positive button">Login</div>
@@ -99,6 +115,7 @@
         <script src="js/jquery.min.js"></script>
         <script src="js/semantic.min.js"></script>
         <script src="js/pace.min.js"></script>
+
         <script>
 
         $('#hi')
@@ -127,11 +144,11 @@
           .modal('show');
         });
 
-        $('.ui.thin.sidebar')
+        $('.ui.thin.very.sidebar')
         .sidebar({
           overlay: false
         })
-        .sidebar('toggle')
+        .sidebar('toggle');
 
         </script>
     </body>
