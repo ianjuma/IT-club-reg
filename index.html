@@ -36,7 +36,7 @@
         </div>
 
         <div class="ui icon button">
-          <i class="blue idea basic icon"></i>
+          <i class="blue idea basic icon" data-position="right center" data-variation="small"></i>
         </div>
 
         <div class="ui icon button">
@@ -247,6 +247,15 @@
         $('#hi')
           .popup({
             on: 'focus'
+          })
+        ;
+
+        $('.blue.idea.basic.icon')
+          .popup({
+            on: 'hover',
+            content: 'project ideas',
+            target: '.blue.idea.basic.icon',
+            inline: true
           })
         ;
 
