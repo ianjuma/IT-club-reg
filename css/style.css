@@ -13,6 +13,11 @@ h1 {
   font-family: 'Lato';
 }
 
+.default-spacer {
+  margin-top: 7.2px;
+  margin-bottom: 7.2px;
+}
+
 /*
 body { 
   background-image:url('term.gif');
