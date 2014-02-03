@@ -8,14 +8,14 @@
 
 h1 {
 	text-align: center;
-    display: inline-block;
-    font-size: 1.5em;
-    font-family: 'Lato';
+  display: inline-block;
+  font-size: 1.5em;
+  font-family: 'Lato';
 }
 
 #reg {
   padding-top: 47px;
-  padding-left: 530px;
+  padding-left: 520px;
 }
 
 /*
