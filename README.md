@@ -3,7 +3,7 @@ IT-club-reg
 
 IT club web app - Front-End
 
-## webapp -> http://95.85.14.116:5000
+[web-app](http://95.85.14.116:5000)
 
 ###TODO
 - [x] Page layout + UI design
