@@ -13,3 +13,4 @@ IT club web app - Front-End
 - [ ] Projects Page
 - [ ] Role distribution
 - [ ] Cards UI on index page
+- [x] serve app
