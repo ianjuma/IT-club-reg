@@ -20,3 +20,4 @@ IT club web app - Front-End
 - [ ] Role distribution
 - [ ] Cards UI on index page
 - [x] serve app
+- [ ] github hooks for live changes
