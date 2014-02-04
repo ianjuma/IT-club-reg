@@ -5,6 +5,11 @@ IT club web app - Front-End
 
 ##[web-app](http://95.85.14.116:5000)
 
+##Cards UI
+
+[cardUI](https://github.com/triceam/cards-ui)
+[cardUI](https://github.com/virtual-dev/CardUICss)
+
 ###TODO
 - [x] Page layout + UI design
 - [ ] Modal login page + sign-up on Index
